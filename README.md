@@ -1,0 +1,2 @@
+# CoffeeMachineScala
+Hyperskill project
